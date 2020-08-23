@@ -10,5 +10,5 @@ The trained legal word embeddings in the dense space can be visualised with a 2-
 ![PCA](https://i.imgur.com/AANy3fY.png)
 
 A Gaussian KDE overlay is superimposed on the scatterplot to enhance visualisation of density distributions. 
-<br>*N.B. text annotations has been removed to enhance visualisation.*
+<br>*N.B. text annotations have been removed to enhance visualisation.*
 ![KDE](https://i.imgur.com/8cx98h7.png)
