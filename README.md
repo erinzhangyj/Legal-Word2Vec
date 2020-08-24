@@ -1,4 +1,4 @@
-# legal-word2vec
+# Legal-Word2Vec
 
 
 ## Introduction
